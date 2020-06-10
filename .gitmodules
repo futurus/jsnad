@@ -1,0 +1,3 @@
+[submodule "stream-adventure"]
+	path = stream-adventure
+	url = https://github.com/futurus/stream-adventure.git
